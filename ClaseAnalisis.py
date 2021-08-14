@@ -4,7 +4,7 @@ class Analisis:
         self.NombreAnalisis=NombreAnalisis
         self.Datos={}
 
-if __name__="__main__":
+if __name__=="__main__":
     a=Analisis()
     print("test1")
 
